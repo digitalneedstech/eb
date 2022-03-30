@@ -1,0 +1,3 @@
+enum DateFilter{
+  ALL,TODAY,LAST_7_DAYS,LAST_MONTH
+}

@@ -1,0 +1,3 @@
+enum BidActionOwner{
+  USER,FREELANCER
+}

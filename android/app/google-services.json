@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602481051370",
+    "project_id": "expertbunch-c5b78",
+    "storage_bucket": "expertbunch-c5b78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602481051370:android:8b7a84f50525cd108e7993",
+        "android_client_info": {
+          "package_name": "com.hanatech.flutter_eb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602481051370-a8uho2gpd84lpahpm5eavvfo2bnk7mls.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFsyMpfJKvkH0JkBJ61r1fUMGBGl6kfDE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602481051370-a8uho2gpd84lpahpm5eavvfo2bnk7mls.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
