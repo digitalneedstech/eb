@@ -1,16 +1,21 @@
-# flutter_eb
 
-A new Flutter application.
+# Project Title
 
-## Getting Started
+EB is a kind of product where professionals from different industries can get onboarded and recruiters can bid for the professionals based on their hourly rate and schedule calls later on with them with Video and audio call via agora and based on the time spent over the call.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Bidding for Professional Services
+- Posting Jobs
+- Scheduling Calls
+- Video and Audio Calling Via Agora
+- Wallet Management
+- Earning
+- Affiliate Management and Earning
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Authors
+
+- [@Digitaleeds](https://www.github.com/octokatherine)
+
